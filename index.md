@@ -11,4 +11,4 @@ Here you come to my webpage about [Basic Surveying Tasks](https://sschoppenhauer
 
 ### Comment or Contact
 
-Comment on my [GitHub Page](https://github.com/sschoppenhauer).
+Comment on my [GitHub Page](https://github.com/sschoppenhauer). Hello :)

@@ -7,7 +7,7 @@ Here you can download my [tutorial](https://github.com/sschoppenhauer/QGIS-for-r
 
 Here you come to my webpage about [Basic Surveying Tasks](https://sschoppenhauer.github.io/Surveying-Scripts/).
 
-[Here](https://sschoppenhauer.github.io/Energiepreise/raw/main/Vergleich-Energiepreise.html) you can compare the current energy prices.
+[Here](https://sschoppenhauer.github.io/Energiepreise) you can compare the current energy prices.
 
 ### Comment or Contact
 
